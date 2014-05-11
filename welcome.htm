@@ -29,8 +29,6 @@ Share Location
 		xmlhttp.onreadystatechange=function() {
 			if (xmlhttp.readyState==4 && xmlhttp.status==200) {
 				var data =JSON.parse(xmlhttp.responseText);
-				console.log(data);
-				alert(data);
 				var timeup = parseInt(data);
 				var d = new Date();
 				var n = d.getTime();

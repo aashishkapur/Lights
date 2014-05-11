@@ -21,7 +21,6 @@ function OMGOMGOMG()  {
 	var sanitation = document.getElementById('sanitation').value;
 	var completion = document.getElementById('completion').value;
 	var string = "review.php?name=" + name + "&comfort=" + comfort + "&food=" + food + "&power=" + power + "&medical=" + medical + "&space=" + space + "&latitude=" + latitude + "&longitude=" + longitude + "&stability=" + stability + "&water=" + water + "&clothing=" + clothing + "&sanitation=" + sanitation +"&completion=" + completion;
-	alert(string);
 	xmlhttp.open("GET",string, true); // ADD NAME AND ALL CREDIENTIALS
 	xmlhttp.send();
 }

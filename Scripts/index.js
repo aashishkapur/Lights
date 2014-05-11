@@ -4,7 +4,6 @@ var myvar = getURLParameter("correct");
 		document.getElementById('Error').innerHTML="Incorrect username or password";
 	else
 		showHint();
-		alert("HEY IM HERE");
 	}
 
 	function getURLParameter(name) {

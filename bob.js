@@ -8,4 +8,3 @@
       source: availableTags
     });
   });
-  alert("BOSSASS BITCH");
