@@ -1,0 +1,6 @@
+
+=============
+    In our project, we strived to make a tool for both the end users and the admin to warn the general public about incoming natural disasters. Our project has two parts - a mobile app and a website. The mobile app alerts the end users (the general public of India) about an imminent natural disaster, calculates the best emergency shelter they could go to, and shows the nearest emergency shelters as well as their current location on a Google Map. It uses a variety of factors (water, stability, availability) about the emergency shelters to determine the ideal one. The website is used by the admins (the owners of emergency shelters) to continually update the status of their emergency centers, which will help Indian citizens to find the optimal center quickly and accurately. The website allows the admins to change the attributes of the emergency shelters that the end users can access, and displays all of the emergency shelters on a Google Map as well. We hope that this project will benefit society in India by alerting the public about natural disasters, determining the best and closest emergency shelter near them, and saving a lot of lives as a result.
+
+
+This project was developed to compete in the Code For India Hackathon during the dates of May 9, 2014 - May 10, 2014.
